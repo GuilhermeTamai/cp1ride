@@ -12,10 +12,5 @@ public class SistemaPrincipal {
 		v1.adicionarGasolina(50);
 		v1.gastarGasolina(30);
 		System.out.println("Dono: " + v1.getIndividuo() + " | Placa: " + v1.getPlaca() + " | Gasolina: " + v1.getGasolina());
-
-		
-		
-
 	}
-
 }
